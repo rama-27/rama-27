@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on making my personal website
+- 🔭 I’m currently working on making my personal [website](ramarajumantena.me)
 - 📫 How to reach me: ramarajumantena231@gmail.com
